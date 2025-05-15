@@ -1,0 +1,10 @@
+.list-cards {
+  bottom: -30px;
+  margin-left: 15px;
+}
+.cards-day {
+  width: 150px;
+  background: rgba(255, 255, 255, 0.5) !important;
+  box-shadow: rgba(99, 99, 99, 0.2) 2px 2px 8px 2px;
+  border-radius: 30px !important;
+}

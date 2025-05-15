@@ -1,0 +1,21 @@
+.custom-input {
+  border-radius: 30px;
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  box-shadow: none;
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.custom-input:focus {
+  box-shadow: none;
+  border-color: #999;
+}
+
+.custom-icon {
+  background: white;
+  border: none;
+  border-radius: 20px;
+  padding-right: 15px;
+  font-size: 18px;
+  color: gray;
+}
